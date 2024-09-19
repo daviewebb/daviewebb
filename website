@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Davie Webb - Product Leader & Coach</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 800px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            margin-bottom: 0.5em;
+        }
+        p {
+            line-height: 1.6;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        .social-icons a {
+            margin-right: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        .btn-download {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Davie Webb</h1>
+    <p>Product Leader | Coach | AI Enthusiast</p>
+</header>
+
+<section id="bio">
+    <h2>Professional Bio</h2>
+    <p>
+        Davie Webb is a specialist start-up and scale-up product leader with over 12 years of experience in user-focused web app and SaaS solutions. He excels in uniting cross-functional teams for impactful product delivery, both strategically and tactically. In July 2022, Davie launched his consultancy, Dawn Chorus Digital, working on high-profile transformation projects.
+        His notable achievements include pioneering Boomin.com, a disruptive start-up that attracted over 1 million monthly site visits, and revolutionizing the customer experience at Purplebricks, creating the largest estate agency in the UK.
+        Davie is passionate about AI-powered products and continually looks to leverage AI throughout the product lifecycle.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact Info</h2>
+    <p>Email: <a href="mailto:daviewebb@outlook.com">daviewebb@outlook.com</a></p>
+    <p>Phone: 07572 763416</p>
+</section>
+
+<section id="social-media">
+    <h2>Social Media</h2>
+    <div class="social-icons">
+        <a href="https://linkedin.com/in/davie-webb" target="_blank">LinkedIn</a>
+    </div>
+</section>
+
+<section id="work-samples">
+    <h2>Work Samples</h2>
+    <p>Here are some of the projects I've led:</p>
+    <ul>
+        <li><a href="https://boomin.com" target="_blank">Boomin.com</a> – Disruptive property search platform</li>
+        <li><a href="https://stagecoach.com" target="_blank">Stagecoach</a> – Digital retail enhancements</li>
+        <li><a href="https://azarc.io" target="_blank">Azarc.io</a> – OCR-powered customs solutions</li>
+    </ul>
+</section>
+
+<section id="passions">
+    <h2>Passions</h2>
+    <p>I am passionate about football, both as a player in a local over-30s league and as a qualified level 5 FA referee. I also enjoy sailing and am currently learning the ropes. Walking my dog is a daily ritual where I get some of my best deep thinking done. As a proud father of two boys, family life is a big part of my world. I'm an AI enthusiast, eager to see and be a part of how AI will reshape industries.</p>
+</section>
+
+<section id="resume">
+    <h2>Resume</h2>
+    <a href="Davie_Webb_Product_Leader_CV.pdf" class="btn-download" download>Download my Resume</a>
+</section>
+
+<footer>
+    <p>&copy; 2024 Davie Webb. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
